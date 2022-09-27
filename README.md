@@ -1,9 +1,9 @@
-# CRUD Node.js MySQL Handlebars
+# CRUD con Node.js, MySQL y Handlebars
 
-CRUD with javascript, nodejs, and mysql 8. List of tasks with javascript, where we can add tasks, visualize them in a table, edit the tasks and delete them. It is a simple application where we can learn the basic concepts to make more complex applications with javascript.
+CRUD (en ingles Create, Read, Update and Delete traducción de Crear, Leer, Actualizar y Borrar respectivamente) con javascript, nodejs y mysql 8. 
 
-CRUD con javascript, nodejs, y mysql 8. Lista de tareas con javascript, donde podemos añadir tareas, visualizarlas en una tabla, editar las tareas y eliminarlas. Es una aplicación sencilla donde podemos aprender los conceptos básicos para realizar aplicaciones más complejas con javascript.
+El programa cuenta con una lista de peliculas con javascript, donde podemos agregar peliculas, visualizar las peliculas en una tabla, editar las peliculas y eliminarlas. 
 
-CRUD avec javascript, nodejs, et mysql 8. liste de tâches avec javascript, où nous pouvons ajouter des tâches, les visualiser dans un tableau, éditer les tâches et les supprimer. C'est une application simple où nous pouvons apprendre les concepts de base pour faire des applications plus complexes avec javascript.
+Es una aplicación que describe las peliculas de forma sencilla donde podemos aprender los conceptos básicos para hacer aplicaciones más complejas con javascript, para crear la base de datos utilizar workbench y correr el archivo creapelicula.sql
 
 ### is Readme MK
