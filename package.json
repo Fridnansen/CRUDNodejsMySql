@@ -4,9 +4,10 @@
   "description": "CRUD (en ingles Create, Read, Update and Delete traduccido al español como Crear, Leer, Actualizar y Borrar respectivamente) con javascript, nodejs y mysql 8.",
   "main": "index.js",
   "scripts": {
+    "predeplay":"npm run views",
     "start": "node src/app.js",
     "dev": "nodemon src/app.js",
-    "deploy": "gh-pages /d .views"
+    "deploy": "gh-pages /d views"
   },
   "keywords": [],
   "author": "",
